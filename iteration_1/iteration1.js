@@ -1,6 +1,6 @@
 var readline = require("readline-sync");
 
-/*
+
 // 1 - Fatorielle
 
 
@@ -80,4 +80,3 @@ function pgcd (a, b) {
 
 console.log(pgcd(first,second));
 
-*/

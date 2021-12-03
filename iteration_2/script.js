@@ -1,4 +1,4 @@
-let tailleX = 6;
+let tailleX = 24;
 
 function createMaze(mazeArray) {
   let idIterator = 0;
